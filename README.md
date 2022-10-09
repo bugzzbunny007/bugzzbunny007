@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamyu104&column=8)](https://github-profile-trophy.vercel.app/?username=bugzzbunny007&column=8)
 
 ---
 
